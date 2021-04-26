@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\bin\Debug\PTMKapp.exe.config
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\bin\Debug\PTMKapp.exe
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\bin\Debug\PTMKapp.pdb
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\obj\Debug\PTMKapp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\obj\Debug\PTMKapp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\obj\Debug\PTMKapp.exe
+C:\Users\ASUS\source\repos\PTMKapp\PTMKapp\obj\Debug\PTMKapp.pdb
